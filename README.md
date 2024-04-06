@@ -1,7 +1,7 @@
 # Pathfinding Algorithm Visualizer
 ## Preview
-![Dijkstras](https://github.com/AnmolVerma7/Pathfinding-Visualizer/assets/90490916/bac771f5-00e5-4ddd-a9bb-270cd1ab61ec)
 
+![DoubleAlgo](https://github.com/AnmolVerma7/Pathfinding-Visualizer/assets/90490916/70b2c8cc-bf5c-479e-ba4e-6d2cf8bba627)
 
 ## Description
 This Python script, `PathfindingVisualizer.py`, provides a visual implementation of 2 pathfinding algorithms using Pygame. It's designed to visually demonstrate the most efficient path between two points in a 50x50 grid (but this can be changed in the code). The script allows users to interact with the grid, place start and end points, and visualize the pathfinding process in real time.
