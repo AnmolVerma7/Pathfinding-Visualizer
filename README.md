@@ -1,4 +1,4 @@
-# Pathfinding Algorithm Visualization
+# Pathfinding Algorithm Visualizer
 ## Preview
 ![Dijkstras](https://github.com/AnmolVerma7/Pathfinding-Visualizer/assets/90490916/bac771f5-00e5-4ddd-a9bb-270cd1ab61ec)
 
